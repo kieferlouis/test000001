@@ -8,3 +8,4 @@
 ||*.trafficguard.ai^
 @@||ad.doubleclick.net^
 ||*.doubleclick.net^
+@@||s.click.aliexpress.com^
