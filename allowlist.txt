@@ -5,7 +5,5 @@
 !!!This list only applies to "AdGuard Home".
 !Total lines: 1
 @@||track.trafficguard.ai^
-||*.trafficguard.ai^
 @@||ad.doubleclick.net^
-||*.doubleclick.net^
 @@||s.click.aliexpress.com^
