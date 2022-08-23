@@ -6,3 +6,4 @@
 !Total lines: 1
 @@||track.trafficguard.ai^
 ||*.trafficguard.ai^
+@@||ad.doubleclick.net^
