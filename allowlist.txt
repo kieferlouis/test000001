@@ -7,3 +7,4 @@
 @@||track.trafficguard.ai^
 ||*.trafficguard.ai^
 @@||ad.doubleclick.net^
+||*.doubleclick.net^
