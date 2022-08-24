@@ -1,6 +1,6 @@
 !Title: anti-ADD
-!Version: 20220823
-!Homepage: https://github.com/
+!Version: 20220825
+!Homepage: https://github.com/kieferlouis/test000001/
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
 !Total lines: 5
