@@ -7,3 +7,4 @@
 @@||track.trafficguard.ai^
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
+@@||in.appcenter.ms^
