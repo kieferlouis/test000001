@@ -9,4 +9,4 @@
 @@||s.click.aliexpress.com^
 @@||in.appcenter.ms^
 @@||config.uca.cloud.unity3d.com^
-@@||firebaselogging-pa.googleapis.com^
+@@||app-measurement.com^
