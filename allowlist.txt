@@ -3,10 +3,11 @@
 !Homepage: https://github.com/kieferlouis/test000001/
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 6
+!Total lines: 7
 @@||track.trafficguard.ai^
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
 @@||config.uca.cloud.unity3d.com^
 @@||app-measurement.com^
 @@||in.appcenter.ms^
+@@||smetrics.aia.com^
