@@ -8,3 +8,4 @@
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
 @@||in.appcenter.ms^
+@@||config.uca.cloud.unity3d.com^
