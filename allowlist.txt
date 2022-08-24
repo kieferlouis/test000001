@@ -10,4 +10,4 @@
 @@||config.uca.cloud.unity3d.com^
 @@||app-measurement.com^
 @@||in.appcenter.ms^
-@@||smetrics.aia.com^
+@@||dpm.demdex.net^
