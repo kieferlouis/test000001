@@ -8,6 +8,10 @@
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
 @@||config.uca.cloud.unity3d.com^
+!!!!config.uca.cloud.unity3d.com use by fallout Shelter chinese game app
 @@||app-measurement.com^
+!!!!!app-measurement.com use by Onepiece Treasure Cruise JPN game app
 @@||in.appcenter.ms^
+!!!!in.appcenter.ms use by fallout Shelter chinese game app
 @@||dpm.demdex.net^
+!!!!dpm.demdex.net use by AIA app
