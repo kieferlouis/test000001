@@ -7,6 +7,8 @@
 @@||track.trafficguard.ai^
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
+@@||cdp.cloud.unity3d.com^
+!!!!cdp.cloud.unity3d.com use by fallout Shelter chinese game app
 @@||config.uca.cloud.unity3d.com^
 !!!!config.uca.cloud.unity3d.com use by fallout Shelter chinese game app
 @@||app-measurement.com^
@@ -15,3 +17,4 @@
 !!!!in.appcenter.ms use by fallout Shelter chinese game app
 @@||dpm.demdex.net^
 !!!!dpm.demdex.net use by AIA app
+
