@@ -23,5 +23,3 @@
 !!!!firebaselogging-pa.googleapis.com use by google login
 !@@||launches.appsflyer.com^
 !!!!launches.appsflyer.com use by fallout Shelter chinese game app
-@@||slscr.update.microsoft.com^
-!!!!slscr.update.microsoft.com use by Microsoft product activation
