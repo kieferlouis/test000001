@@ -7,19 +7,19 @@
 @@||track.trafficguard.ai^
 @@||ad.doubleclick.net^
 @@||s.click.aliexpress.com^
-@@||cdp.cloud.unity3d.com^
+!@@||cdp.cloud.unity3d.com^
 !!!!cdp.cloud.unity3d.com use by fallout Shelter chinese game app
-@@||config.uca.cloud.unity3d.com^
+!@@||config.uca.cloud.unity3d.com^
 !!!!config.uca.cloud.unity3d.com use by fallout Shelter chinese game app
-@@||configv2.unityads.unity3d.com^
+!@@||configv2.unityads.unity3d.com^
 !!!!configv2.unityads.unity3d.com use by fallout Shelter chinese game app
 @@||app-measurement.com^
 !!!!!app-measurement.com use by Onepiece Treasure Cruise JPN game app
-@@||in.appcenter.ms^
+!@@||in.appcenter.ms^
 !!!!in.appcenter.ms use by fallout Shelter chinese game app
 @@||dpm.demdex.net^
 !!!!dpm.demdex.net use by AIA app
 @@||firebaselogging-pa.googleapis.com^
 !!!!firebaselogging-pa.googleapis.com use by google login
-@@||launches.appsflyer.com^
+!@@||launches.appsflyer.com^
 !!!!launches.appsflyer.com use by fallout Shelter chinese game app
