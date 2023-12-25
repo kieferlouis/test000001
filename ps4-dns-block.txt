@@ -64,3 +64,14 @@
 0.0.0.0	themis.dl.playstation.net
 0.0.0.0	tmdb.np.dl.playstation.net
 0.0.0.0	t-prof.np.community.playstation.net
+0.0.0.0	ps4updptl.au.np.community.playstation.net
+0.0.0.0	event.api.np.km.playstation.net
+0.0.0.0	gs2.ww.prod.dl.playstation.net
+0.0.0.0	gs-sec.ww.np.dl.playstation.net
+0.0.0.0	friends.rnps.dl.playstation.net
+0.0.0.0	rnps-crl.dl.playstation.net
+0.0.0.0	fswitch.dl.playstation.net
+0.0.0.0	us.np.stun.playstation.net
+0.0.0.0	ic.9fc41f00.0d8773.gs2.sonycoment.loris-e.llnwd.net
+0.0.0.0	ic.9fc41f00.049129.gs2.sonycoment.loris-e.llnwd.net
+0.0.0.0	party.rnps.dl.playstation.net
